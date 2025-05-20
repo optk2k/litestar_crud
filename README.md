@@ -15,9 +15,9 @@ database=postgres
 
 3) выполните по очереди команды для docker-compose (миграции отдельно накатывать не надо)
 
-docker-compose build
+```docker-compose build```
 
-docker-compose up
+```docker-compose up```
 
 4) помотрите на swagger ui через браузер
 
